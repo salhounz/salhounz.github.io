@@ -17,17 +17,18 @@ darkmode: true
 # Social links
 twitter_username: CodySullins
 github_username:  salhounz
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
-linkedin_username: codysullins
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+linkedin_username: SullinsCody
+# stackoverflow_username: username_goes_here
+# dribbble_username: username_goes_here
+# facebook_username: username_goes_here
+# flickr_username: username_goes_here
+# instagram_username: username_goes_here
+
+# xing_username: username_goes_here
+# pinterest_username: username_goes_here
+# youtube_username: username_goes_here
+# googleplus_username: username_goes_here
+# orcid_username: username_goes_here
 
 # Additional icon links
 additional_links:
@@ -48,17 +49,17 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name is Cody Sullins and I am a Senior at Missouri State University pursuing a Bachelor of Science in Computer Science - Software Development with a minor in Cybersecurity as well as an Undergraduate Certificate in Web Programming although I am also beginning an Accelerated Master of Science in Cybersecurity starting this Fall. In addition,
+  to academics I am apart of a few groups at Missouri State that are Digital Coffee and Kappa Sigma and I have served a multitude of roles within those groups in order to help facilitate and grow each into the best organization possible.
+  I am mostly skilled in: <mark>Web Development</mark> <mark>Problem Solving/Creative Thinking</mark> and <mark>Leadership</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Projects # Section Title
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Digital Coffee
+        link: https://discord.gg/tTB6RUW5vS
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -68,10 +69,12 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          A collaborative space for Computer Science students, clubs, groups, and those interested to boost study skills, knowledge, networking, and also just increasing communication between the Computer Science department and students with over 250 members and growing!
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+           I began this project my Sophomore year of college with 2 other people whom simply wanted to increase communication between students as once class would be over the helpful communication would cease as well. So, we
+           started a Discord server with that idea in mind as there were no other options for us and now with over 250 memebers and an administration team of 5 we have class-selection abilities to form groups within classes, networking oppourtunities (LinkedIn, etc.), job and internship postings, and over 8 clubs and groups posted within our server
+           including an original dynamic open world (4km X 4km) RPG with dynamic plants, animals, AI controlled NPC's, lifelike simulations of erosion, gradual population, and many others. The other groups include GDG Springfield, Springfield Devs, Data Science After Dark, and Springfield Women in Technology.
+      
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
