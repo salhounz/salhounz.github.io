@@ -54,7 +54,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am mostly skilled in: <mark>Web Development</mark> <mark>Problem Solving/Creative Thinking</mark> and <mark>Leadership</mark>
 
 content:
-about_profile_image: images/profile.jpg
   - title: Projects # Section Title
     layout: list # Type of content section (list/text)
     content:
