@@ -80,7 +80,7 @@ content:
       - layout: left
         title: Missouri State University
         link: helpdesk.missouristate.edu
-        # link_text: missouristate.edu
+        link_text: missouristate.edu
         sub_title: Open-Access Lab Assistant
         caption: September 2017 - Present
         quote: >
@@ -88,15 +88,13 @@ content:
         description: | # this will include new lines to allow paragraphs
             Provide technical support to students, faculty, and staff using any of Missouri State University's systems and services within one of the three Open-Access Computer Labs on campus as well as any remote locations that university networks/hardware is being utilized.
       - layout: left
-        title: The asdfasdfasdf
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title: O'Reilly Auto Parts, Inc. 
+        link: oreillyauto.com
+        # link_text: oreillyauto.com
+        sub_title: Junior Software Developer
+        caption: August 2019 - January 2020
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Diggi
+            Debug and correct exisiting software defects, develop new and modify existing software, create/update project documentation.
   
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
