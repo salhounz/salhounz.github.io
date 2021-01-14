@@ -84,7 +84,8 @@ content:
         # link_text: missouristate.edu
         sub_title: Open-Access Lab Assistant
         caption: September 2017 - Present
-        quote: > 2019 Student Employee of the Year
+        quote: > 
+            2019 Student Employee of the Year
         description: | # this will include new lines to allow paragraphs
             Provide technical support to students, staff, faculty, and staff using any of Missouri State University's systems and services within one of the three
             Open-Access Computer Labs on campus as well as an remote locations where university networks/hardware is being utilized.
