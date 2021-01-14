@@ -79,7 +79,7 @@ content:
     content: 
       - layout: left
         title: Missouri State University
-        link: missouristate.edu
+        link: helpdesk.missouristate.edu
         # link_text: missouristate.edu
         sub_title: Open-Access Lab Assistant
         caption: September 2017 - Present
