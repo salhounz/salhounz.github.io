@@ -90,14 +90,7 @@ content:
             Provide technical support to students, staff, faculty, and staff using any of Missouri State University's systems and services within one of the three
             Open-Access Computer Labs on campus as well as an remote locations where university networks/hardware is being utilized.
       
-      - layout: left
-        title: O'Reilly Auto Parts, Inc. 
-        link: oreillyauto.com
-        # link_text: oreillyauto.com
-        sub_title: Junior Software Developer
-        caption: August 2019 - January 2020
-        description: | # this will include new lines to allow paragraphs
-            Debug and correct exisiting software defects, develop new and modify existing software, create/update project documentation.
+      
       
       
  
