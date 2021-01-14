@@ -122,14 +122,13 @@ content:
         sub_title: MS Cybersecurity
         description: | # this will include new lines to allow paragraphs
           Recently accepted into Missouri State's Graduate College I will be pursuing a Master of Science in Cybersecurity from the College of Business while also being a part-time Graduate Assistant for Computer Services here at Missouri State.
-  
-  - layout: left
+      - layout: left
         title: Missouri State University
         caption: 2017 - Present
         sub_title: BS Computer Science - Software Development
         description: | # this will include new lines to allow paragraphs
           I am currently pursuing a Bachelor of Science in Computer Science with an emphasis in Software Development from Missouri State's Computer Science department while also being a Co-Founder of a 280+ member Comp. Sci. club and being very involved within campus and within campus life by holding multiple positions within The Kappa Sigma Fraternity (Grand Treasurer, Homecoming, Greek Week, etc.).
-  - layout: left
+      - layout: left
         title: Missouri State University
         caption: 2017 - Present
         sub_title: Undergraduate Web Programming Certificate
