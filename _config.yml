@@ -95,7 +95,7 @@ content:
         caption: August 2019 - January 2020
         description: | # this will include new lines to allow paragraphs
             Debug and correct exisiting software defects, develop new and modify existing software, create/update project documentation.
-      - layout: left
+     - layout: left
         title: O'Reilly Auto Parts, Inc.
         link: oreillyauto.com
         # link_text: oreillyauto.com
