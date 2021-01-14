@@ -87,16 +87,27 @@ content:
           2019 Student Employee of The Year Nominee
         description: | # this will include new lines to allow paragraphs
             Provide technical support to students, faculty, and staff using any of Missouri State University's systems and services within one of the three Open-Access Computer Labs on campus as well as any remote locations that university networks/hardware is being utilized.
-      - layout: left
-        title: O'Reilly Auto Parts, Inc. 
+     
+     - layout: left
+        title: O'Reilly Auto Parts, Inc. - Home Office
         link: oreillyauto.com
         # link_text: oreillyauto.com
         sub_title: Junior Software Developer
         caption: August 2019 - January 2020
         description: | # this will include new lines to allow paragraphs
             Debug and correct exisiting software defects, develop new and modify existing software, create/update project documentation.
-  
-  - title: Education # Title for the section
+      
+      - layout: left
+        title: O'Reilly Auto Parts, Inc. - Home Office
+        link: oreillyauto.com
+        # link_text: oreillyauto.com
+        sub_title: Intern Software Developer
+        caption: May 2019 - August 2019
+        description: | # this will include new lines to allow paragraphs
+            The O'Reilly Auto Parts Software Developer Internship is an internship that begins with a 12-week classroom period to train each intern.
+            This training period is taught by internship supervisors from O'Reilly Auto Parts and is hosted at Missouri State University. The program consists of both classroom training and hands-on experience in a lab environment.
+ 
+ - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
