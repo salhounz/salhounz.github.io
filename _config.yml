@@ -95,7 +95,14 @@ content:
         caption: August 2019 - January 2020
         description: | # this will include new lines to allow paragraphs
             Debug and correct exisiting software defects, develop new and modify existing software, create/update project documentation.
-  
+      - layout: left
+        title: O'Reilly Auto asdfParts, Inc. 
+        link: oreillyautdddo.com
+        # link_text: oreillyauto.com
+        sub_title: Junior Softwadddre Developer
+        caption: August 2ddd019 - January 2020
+        description: | # this will include new lines to allow paragraphs
+            Debug and correct asdfasdfasdfasdfexisiting software defects, develop new and modify existing software, create/upda
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
