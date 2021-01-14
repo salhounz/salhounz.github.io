@@ -78,7 +78,7 @@ content:
     layout: list # Type of content section (list/text)
     content: 
       - layout: left
-        title: Missouri State University
+        title: Missouri State Universitydd
         link: helpdesk.missouristate.edu
         link_text: missouristate.edu
         sub_title: Open-Access Lab Assistant
