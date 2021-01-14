@@ -47,7 +47,7 @@ additional_links:
 
 # About Section
 about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Cody Sullins and I am a Senior at Missouri State University pursuing a Bachelor of Science in Computer Science - Software Development with a minor in Cybersecurity as well as an Undergraduate Certificate in Web Programming although I am also beginning an Accelerated Master of Science in Cybersecurity starting this Fall. In addition,
   to academics I am apart of a few groups at Missouri State that are Digital Coffee and Kappa Sigma and I have served a multitude of roles within those groups in order to help facilitate and grow each into the best organization possible.
