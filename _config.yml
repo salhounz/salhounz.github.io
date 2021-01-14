@@ -52,7 +52,6 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Cody Sullins and I am a Senior at Missouri State University pursuing a Bachelor of Science in Computer Science - Software Development with a minor in Cybersecurity as well as an Undergraduate Certificate in Web Programming although I am also beginning an Accelerated Master of Science in Cybersecurity starting this Fall. In addition,
   to academics I am apart of a few groups at Missouri State that are Digital Coffee and Kappa Sigma and I have served a multitude of roles within those groups in order to help facilitate and grow each into the best organization possible.
   I am mostly skilled in: <mark>Web Development</mark> <mark>Problem Solving/Creative Thinking</mark> <mark>Customer Service</mark> and <mark>Leadership</mark>
-
 content:
   - title: Projects # Section Title
     layout: list # Type of content section (list/text)
@@ -77,7 +76,6 @@ content:
       
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
-    content:
     content: 
       - layout: left
         title: The Boring Company
@@ -89,7 +87,6 @@ content:
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-    content:
       - layout: left
         title: The asdfasdfasdf
         link: boringcompany.com
@@ -100,12 +97,8 @@ content:
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Diggi
-      
-      
-      
-      
- 
- - title: Education # Title for the section
+  
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -116,9 +109,7 @@ content:
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -127,10 +118,8 @@ content:
       - Gaming
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
